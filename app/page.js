@@ -23,7 +23,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>  */}
-<div>
+<div className="items-bottom">
   <h1 className="flex text-5xl ">
     Messy App 
   </h1>
